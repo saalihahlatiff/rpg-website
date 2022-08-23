@@ -1,0 +1,33 @@
+
+@import url('http://fonts.cdnfonts.com/css/common-pixel');
+p {
+    font-family: 'Common Pixel', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+button {   
+    background-color: black;
+    color: rgb(45, 200, 45);
+    border:rgb(45, 200, 45);
+    height: 36px;
+    width: 105;
+    margin: auto;
+    border-radius: 2px;
+    border-width: 2px;
+    cursor: pointer;
+    font-family: 'Common Pixel', sans-serif;
+    text-align: center;
+    
+}
+
+button:hover{
+    background-color: purple;
+    color: rgb(45, 200, 45);
+    border-color: rgb(45, 200, 45);
+    border-style: solid;
+    border-width: 1px;
+    height: 40px;
+    width: 110px;
+    cursor: pointer;
+}
