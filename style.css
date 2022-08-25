@@ -31,3 +31,14 @@ button:hover{
     width: 110px;
     cursor: pointer;
 }
+
+.imageKnight{
+    width: 300 px;
+    height: 300 px;
+
+    object-fit: contain;
+    object-position: right;
+    border: 2px;
+    border-style: solid;
+    border-color: red;
+}
